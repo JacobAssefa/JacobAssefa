@@ -14,4 +14,4 @@ osTicket : Ticket Lifecycle Examples https://github.com/JacobAssefa/ticket-lifec
 * Microsoft Azure
 
   - Configuring on Prem Active Directory within Azure VM https://github.com/JacobAssefa/Configure-AD
-  - Network Security Groups (NSGs) and Inspecting Network Protocols 
+  - Network Security Groups (NSGs) and Inspecting Network Protocols https://github.com/JacobAssefa/Azure-Network-Protocol
