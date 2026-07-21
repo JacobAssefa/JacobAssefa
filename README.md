@@ -9,3 +9,8 @@
    osTicket - Post Configuration Setup https://github.com/JacobAssefa/post-install-config
 
 osTicket : Ticket Lifecycle Examples https://github.com/JacobAssefa/ticket-lifecycle
+
+
+* Microsoft Azure
+
+  - Configuring on Prem Active Directory within Azure VM 
