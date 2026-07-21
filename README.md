@@ -13,4 +13,4 @@ osTicket : Ticket Lifecycle Examples https://github.com/JacobAssefa/ticket-lifec
 
 * Microsoft Azure
 
-  - Configuring on Prem Active Directory within Azure VM 
+  - Configuring on Prem Active Directory within Azure VM https://github.com/JacobAssefa/Configure-AD
