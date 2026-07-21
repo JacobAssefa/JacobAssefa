@@ -6,3 +6,4 @@
 
  [ - [osTicket: Prerequisites and Installation](https://github.com/JacobAssefa/osticket-prereqs)](https://github.com/JacobAssefa/osTicket-Prerequisites-and-Installation)
  
+https://github.com/JacobAssefa/post-install-config
